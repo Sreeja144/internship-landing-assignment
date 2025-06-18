@@ -2,6 +2,10 @@
 # Internship Landing Page – Madala Sreeja
  Live URL:https://melodious-raindrop-9156ec.netlify.app/
  Live URL: https://internship-landing-assignment-1vsg-f4425fecy.vercel.app 
+ ![image](https://github.com/user-attachments/assets/aaec3170-c635-4798-a36e-ad1b06761ba8)
+ ![image](https://github.com/user-attachments/assets/437204bb-d8bc-4d6b-a895-193df975b32f)
+
+
  
 This project is a fully responsive landing page developed as part of an internship assignment. It is designed using the Figma UI and implemented using modern web technologies including Next.js, Tailwind CSS, and GSAP.
 
